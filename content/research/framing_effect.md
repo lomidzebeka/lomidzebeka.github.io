@@ -25,4 +25,4 @@ gap. Income is negatively associated with aversion but plays a smaller moderatin
 existing responsibility beliefs do not significantly interact with framing, suggesting that framing
 operates as a general heuristic rather than reinforcing prior attitudes. These findings highlight
 the power of framing to shift distributive preferences and raise concerns about its potential to
-weaken public support for equity-oriented health policies
+weaken public support for equity-oriented health policies.
