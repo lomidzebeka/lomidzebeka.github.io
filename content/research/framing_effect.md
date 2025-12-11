@@ -1,5 +1,5 @@
 --- 
-title: Responsibility and Fairness in Health: How Causal Attributions Shape Inequality Aversion
+title: Responsibility and Fairness in Health - How Causal Attributions Shape Inequality Aversion
 date: 2025-12-11
 url: /research/framing_effect/
 author: ["Béka Lomidze", "Florence Jusot", "Jérôme Wittwer"]
