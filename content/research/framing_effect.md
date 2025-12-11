@@ -1,6 +1,6 @@
 --- 
-title: Framing effect, responsability beliefs and health inequality aversion
-date: 2023-12-01
+title: Responsibility and Fairness in Health: How Causal Attributions Shape Inequality Aversion
+date: 2025-12-11
 url: /research/framing_effect/
 author: ["Béka Lomidze", "Florence Jusot", "Jérôme Wittwer"]
 description: "" 
@@ -12,6 +12,17 @@ cover:
 
 *Preliminary draft not yet available*
     
-Using a randomized survey experiment sent out to 4508 respondents, we distributed eight statements related to health inequalities, where respondents could answer on a 10-point Likert scale to what extent they believed those statements to be unfair. We created two type of framing for these statements: First, a neutral framing that states the situation as is and another type that puts an emphasis on individual responsability. These two framing were randomly assigned to our respondents.
-
-We can then observe not only the impact of the framing on respondents aversion to inequality but also estimate which characteristics explains the size of the shift in health inequality aversion due to the change in framing.
+This paper investigates how responsibility framing shapes public aversion to socioeconomic
+health inequalities. Using a nationally representative experimental survey of 4,508 respondents,
+we elicit preferences across eight scenarios capturing disparities in preventive care, access to
+providers, waiting times, avoidable hospitalizations, and mortality. Respondents are randomly
+assigned to a control group receiving neutral descriptions or a treatment group exposed to fram-
+ing that emphasizes individual responsibility for health outcomes. Results show that respon-
+sibility framing significantly reduces inequality aversion across all domains, indicating greater
+acceptance of health disparities when presented as self-inflicted. The effect is heterogeneous:
+men are consistently less inequality-averse than women, and framing further widens this gender
+gap. Income is negatively associated with aversion but plays a smaller moderating role. Pre-
+existing responsibility beliefs do not significantly interact with framing, suggesting that framing
+operates as a general heuristic rather than reinforcing prior attitudes. These findings highlight
+the power of framing to shift distributive preferences and raise concerns about its potential to
+weaken public support for equity-oriented health policies
