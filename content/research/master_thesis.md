@@ -1,5 +1,5 @@
 ---
-title: Slow train coming: The impact of brownfield cleanup on the median income
+title: Slow train coming - The impact of brownfield cleanup on the median income
 date: 2022-06-15
 url: /research/master_thesis/
 author: ["Béka Lomidze"]
