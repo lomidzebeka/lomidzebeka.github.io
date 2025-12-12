@@ -10,7 +10,7 @@ cover:
     relative: false
 ---
 
-*Master 2 memoir under the supervision of Pr. Fabien Candau at the University of Pau*
+*Master 2 memoir under the supervision of [Pr. Fabien Candau](https://fcandau.github.io/Homepage/index.html) at the University of Pau*
     
 Deindustrialization marked the decline of industry dependent regions. Delocal-
 ized or bankrupt companies left behind factories and other industrial facilities.
