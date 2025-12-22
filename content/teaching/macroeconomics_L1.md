@@ -6,7 +6,7 @@ url: /teaching/macroeconomics_L1
 aliases:
     - /old_url.html
 tags: ["macroeconomics","bachelor"]
-author: ["André Meunie", "Guillaume Pouyanne", "Béka Lomidze", "Mael Astruc--Le Souder]
+author: ["André Meunie", "Guillaume Pouyanne", "Béka Lomidze", "Mael Astruc--Le Souder"]
 description: "Introduction to Macroeconomics" 
 summary: "This course provides first-year students with the tools to understand how an economy functions as a whole, focusing on key indicators, macroeconomic models, and the role of public policies in shaping economic outcomes."
 cover:
