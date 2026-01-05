@@ -1,5 +1,5 @@
 ---
-title: "CV"
+title: "Detailed CV"
 aliases: /archive/
 description: "Updated CV"
 ---
