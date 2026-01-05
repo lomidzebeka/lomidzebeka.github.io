@@ -5,4 +5,4 @@ description: "Updated CV"
 ---
 
 
-[CV](/BekaLOMIDZE_CV-4.pdf)
+[CV](/cv/BekaLOMIDZE_CV-4.pdf)
