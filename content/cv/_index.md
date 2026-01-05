@@ -5,4 +5,4 @@ description: "Updated CV"
 ---
 
 
-[CV](/Academic_CV_2023.pdf)
+[CV](/BekaLOMIDZE_CV-4.pdf)
